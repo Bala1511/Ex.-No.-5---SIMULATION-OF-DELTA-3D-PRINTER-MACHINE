@@ -28,6 +28,7 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 
+### OUTPUT
 ### Base :
 The base refers to the stationary bottom platform on which the printer is mounted. It is the foundation that provides stability and support for the entire printer structure.
 
